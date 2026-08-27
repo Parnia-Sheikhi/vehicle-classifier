@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+train/
+val/
+test_image.jpg

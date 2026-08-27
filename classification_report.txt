@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+         SUV       0.95      0.95      0.95        20
+         bus       1.00      0.90      0.95        20
+family sedan       0.86      0.95      0.90        20
+ fire engine       1.00      0.85      0.92        20
+ heavy truck       0.87      1.00      0.93        20
+        jeep       0.95      1.00      0.98        20
+     minibus       0.95      0.90      0.92        20
+  racing car       0.95      1.00      0.98        20
+        taxi       0.95      0.90      0.92        20
+       truck       0.95      0.95      0.95        20
+
+    accuracy                           0.94       200
+   macro avg       0.94      0.94      0.94       200
+weighted avg       0.94      0.94      0.94       200
